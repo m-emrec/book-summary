@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1078074927913",
+    "project_id": "book-summary-app-4e3b3",
+    "storage_bucket": "book-summary-app-4e3b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078074927913:android:07f417e8a4428b2b26e538",
+        "android_client_info": {
+          "package_name": "com.booksummary.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078074927913-20ig6920v8qmjnu9gu15osk53ekj8836.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.booksummary.app",
+            "certificate_hash": "272a7bcc1c18aa59d138131e70dd6027d7c76956"
+          }
+        },
+        {
+          "client_id": "1078074927913-tcut39ilvhf483sg2c9rdnjo5mqo18df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDthiwn9bg3_njDt5lxo2CeFQ2B7BVfv6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078074927913-tcut39ilvhf483sg2c9rdnjo5mqo18df.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1078074927913-5mqo65ljfl0a22gdb6kkhk6c06gdinaj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bookSummary"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078074927913:android:a70ccb84ad4fde7c26e538",
+        "android_client_info": {
+          "package_name": "com.example.book_summary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078074927913-tcut39ilvhf483sg2c9rdnjo5mqo18df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDthiwn9bg3_njDt5lxo2CeFQ2B7BVfv6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078074927913-tcut39ilvhf483sg2c9rdnjo5mqo18df.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1078074927913-5mqo65ljfl0a22gdb6kkhk6c06gdinaj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bookSummary"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
